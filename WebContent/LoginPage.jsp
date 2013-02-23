@@ -4,11 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title></title>
+<title>Insert title here</title>
 </head>
 <body>
-	Hi All ..
-	
-	<h1> how ARE YOU </h1>
+<h1>login page </h1>
 </body>
 </html>
